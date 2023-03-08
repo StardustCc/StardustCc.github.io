@@ -16,8 +16,7 @@
 <span id="more"></span>
 
 <h2 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h2><p>在存放博客的文件夹位置（有_config.yml文件的目录下）打开命令行工具，用以下命令新建博客：</p>
-<pre><code>`hexo new [layout] &lt;title&gt;`
-</code></pre>
+<p>   <code>hexo new [layout] &lt;title&gt;</code></p>
 <p>例</p>
 <pre><code>`hexo new &quot;如何在hexo上创建并编写一篇文章&quot;`
 
@@ -43,11 +42,10 @@ draft	source/_drafts
 </code></pre>
 <p>这里我以:2023-:03-:07-:如何在用hexo搭建的博客上创建并编写一篇文章.md为文件名</p>
 <h2 id="文章部分显示"><a href="#文章部分显示" class="headerlink" title="文章部分显示"></a>文章部分显示</h2><p>在需要分割的部分后添加以下命令即可</p>
-<pre><code>`&lt;!--more--&gt;`
-</code></pre>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">&lt;!--more--&gt;</span><br></pre></td></tr></table></figure></div>
+
 <h2 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h2><p>编写好文章后用以下命令就可以发布咯！</p>
-<pre><code>`hexo g &amp;&amp; hexo d`
-</code></pre>
+<p><code>hexo g &amp;&amp; hexo d</code></p>
 <p>之后继续补充！</p>
 ]]></content>
   </entry>
