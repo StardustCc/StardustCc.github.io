@@ -6,28 +6,28 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>SpringCloud项目启动报错Property ‘sqlSessionFactory‘ or ‘sqlSessionTemplate‘ are required的解决</title>
-    <url>/2023/03/15/SpringCloud%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99Property%20%E2%80%98sqlSessionFactory%E2%80%98%20or%20%E2%80%98sqlSessionTemplate%E2%80%98%20are%20required%E7%9A%84%E8%A7%A3%E5%86%B3/</url>
-    <content><![CDATA[<h2 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Property <span class="string">&#x27;sqlSessionFactory&#x27;</span> or <span class="string">&#x27;sqlSessionTemplate&#x27;</span> are required</span><br></pre></td></tr></table></figure>
-<p>根据不同的错误位置有不同的解决方案，如果查阅了各种解决方法（添加依赖，数据源配置，配置文件修改）都不行的话只要降低springboot的版本就好了，<br>如果降低一个版本仍然不能解决，那就再降低几个版本😤😤😤<br>这是我最终的解决方法，其他的解决方案会之后会再详细总结</p>
+    <title>Hello World</title>
+    <url>/2023/03/04/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/03/04/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>SpringCloud项目启动报错Property ‘sqlSessionFactory‘ or ‘sqlSessionTemplate‘ are required的解决</title>
+    <url>/2023/03/15/SpringCloud%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99Property%20%E2%80%98sqlSessionFactory%E2%80%98%20or%20%E2%80%98sqlSessionTemplate%E2%80%98%20are%20required%E7%9A%84%E8%A7%A3%E5%86%B3/</url>
+    <content><![CDATA[<h2 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h2><div class="highlight-container" data-rel="Java"><figure class="iseeu highlight java"><table><tr><td class="code"><pre><span class="line">Property <span class="string">&#x27;sqlSessionFactory&#x27;</span> or <span class="string">&#x27;sqlSessionTemplate&#x27;</span> are required</span><br></pre></td></tr></table></figure></div>
+<p>根据不同的错误位置有不同的解决方案，如果查阅了各种解决方法（添加依赖，数据源配置，配置文件修改）都不行的话只要降低springboot的版本就好了，<br>如果降低一个版本仍然不能解决，那就再降低几个版本😤😤😤<br>这是我最终的解决方法，其他的解决方案会之后会再详细总结</p>
 ]]></content>
   </entry>
   <entry>
@@ -36,12 +36,12 @@
     <content><![CDATA[<p>在经历了一番波折搭建好博客后的第一件事当然是写下自己的博客啦！</p>
 <p>最好的方式当然是参考官方文档，地址在下面贴出：</p>
 <blockquote>
-<p><a href="https://hexo.io/zh-cn/docs/writing">https://hexo.io/zh-cn/docs/writing</a></p>
+<p><a class="link"   href="https://hexo.io/zh-cn/docs/writing" >https://hexo.io/zh-cn/docs/writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 </blockquote>
 <span id="more"></span>
 
 <h2 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h2><p>在存放博客的文件夹位置（有_config.yml文件的目录下）打开命令行工具，用以下命令新建博客：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure></div>
 
 <p>例</p>
 <pre><code>`hexo new &quot;如何在hexo上创建并编写一篇文章&quot;`
@@ -68,10 +68,10 @@ draft	source/_drafts
 </code></pre>
 <p>这里我以:2023-:03-:07-:如何在用hexo搭建的博客上创建并编写一篇文章.md为文件名</p>
 <h2 id="文章部分显示"><a href="#文章部分显示" class="headerlink" title="文章部分显示"></a>文章部分显示</h2><p>在需要分割的部分后添加以下命令即可</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!--more--&gt;</span></span><br></pre></td></tr></table></figure>
+<div class="highlight-container" data-rel="Html"><figure class="iseeu highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!--more--&gt;</span></span><br></pre></td></tr></table></figure></div>
 
 <h2 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h2><p>编写好文章后用以下命令就可以发布咯！</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure></div>
 
 <p>之后继续补充！</p>
 ]]></content>
