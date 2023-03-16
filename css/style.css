@@ -157,7 +157,7 @@
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -202,7 +202,7 @@
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -248,7 +248,7 @@
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -293,7 +293,7 @@
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -337,7 +337,7 @@
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -381,7 +381,7 @@
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -426,7 +426,7 @@
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -472,7 +472,7 @@
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -517,7 +517,7 @@
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -561,7 +561,7 @@
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -1095,7 +1095,7 @@ button {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1140,7 +1140,7 @@ button {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1186,7 +1186,7 @@ button {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -1231,7 +1231,7 @@ button {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1275,7 +1275,7 @@ button {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -1729,7 +1729,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1774,7 +1774,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1820,7 +1820,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -1865,7 +1865,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1909,7 +1909,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -2067,7 +2067,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2112,7 +2112,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2158,7 +2158,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -2203,7 +2203,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2247,7 +2247,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -2463,7 +2463,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2508,7 +2508,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2554,7 +2554,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -2599,7 +2599,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2643,7 +2643,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -3023,7 +3023,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3068,7 +3068,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3114,7 +3114,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -3159,7 +3159,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3203,7 +3203,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -3700,25 +3700,6 @@ pre .deletion {
   opacity: 1;
   transform: translateX(0);
 }
-.side-tools-container .folded-tools-list .tool-scroll-to-top {
-  display: none;
-}
-.side-tools-container .folded-tools-list .tool-scroll-to-top.show {
-  display: flex;
-}
-.side-tools-container .folded-tools-list .tool-scroll-to-top:hover .percent {
-  display: none;
-}
-.side-tools-container .folded-tools-list .tool-scroll-to-top:hover .arrow-up {
-  display: flex;
-}
-.side-tools-container .folded-tools-list .tool-scroll-to-top .arrow-up {
-  display: none;
-}
-.side-tools-container .folded-tools-list .tool-scroll-to-top .percent {
-  display: flex;
-  font-size: 1rem;
-}
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
@@ -3753,7 +3734,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3798,7 +3779,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3844,7 +3825,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -3889,7 +3870,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3933,7 +3914,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -4064,7 +4045,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4109,7 +4090,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4155,7 +4136,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -4200,7 +4181,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4244,7 +4225,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -4551,7 +4532,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4596,7 +4577,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4642,7 +4623,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -4687,7 +4668,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4731,7 +4712,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5011,7 +4992,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5056,7 +5037,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5102,7 +5083,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5147,7 +5128,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5191,7 +5172,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5393,7 +5374,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5438,7 +5419,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5484,7 +5465,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5529,7 +5510,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5573,7 +5554,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5723,7 +5704,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5768,7 +5749,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5814,7 +5795,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5859,7 +5840,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5903,7 +5884,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6143,7 +6124,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6188,7 +6169,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6234,7 +6215,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6279,7 +6260,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6323,7 +6304,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6843,7 +6824,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6888,7 +6869,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6934,7 +6915,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6979,7 +6960,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7023,7 +7004,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -7121,7 +7102,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7166,7 +7147,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7212,7 +7193,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -7257,7 +7238,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7301,7 +7282,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -7528,7 +7509,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7573,7 +7554,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
     --first-screen-text-color: #fff;
     --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
     --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7619,7 +7600,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+    --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
     --first-screen-text-color: #d1d1b6;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
@@ -7664,7 +7645,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-light.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-light.webp");
   --first-screen-text-color: #fff;
   --first-screen-icons-container-border-color: rgba(255,255,255,0.35);
   --first-screen-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7708,7 +7689,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --first-screen-img: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp");
+  --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
   --first-screen-text-color: #d1d1b6;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
